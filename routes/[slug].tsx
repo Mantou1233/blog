@@ -22,6 +22,11 @@ export default function PostPage(props: PageProps<Post>) {
       <Head>
         <style dangerouslySetInnerHTML={{ __html: CSS }} />
         <link rel="stylesheet" href={asset("/style.css")} />
+        <title>blog</title>
+        <meta id="meta-title" property="og:title" content={"blog" + post.title} />
+        <meta id="meta-desc" property="og:description" content={post.snippet} />
+        <meta id="meta-image" name="og:image" content={asset("avatar.jpg")} itemProp="image" />
+        <meta name="twitter:card" content="summary" />
       </Head>
       <body>
         <NavBar back/>
