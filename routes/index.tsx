@@ -18,8 +18,9 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
         <title>mantou's blog</title>
         <link rel="stylesheet" href={asset("/style.css")} />
         <meta id="meta-title" property="og:title" content="Mantou's blog" />
-        <meta id="meta-desc" property="og:description" content="Website 4 me to share life~." />
+        <meta id="meta-desc" property="og:description" content="Website 4 me to share life~" />
         <meta id="meta-image" name="og:image" content={asset("avatar.jpg")} itemProp="image" />
+        <meta name="theme-color" content="#CFF2FF" />
         <meta name="twitter:card" content="summary" />
       </Head>
       <body>

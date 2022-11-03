@@ -26,6 +26,7 @@ export default function PostPage(props: PageProps<Post>) {
         <meta id="meta-title" property="og:title" content={"post: " + post.title.toLowerCase()} />
         <meta id="meta-desc" property="og:description" content={post.snippet} />
         <meta id="meta-image" name="og:image" content={asset("avatar.jpg")} itemProp="image" />
+        <meta name="theme-color" content="#CFF2FF" />
         <meta name="twitter:card" content="summary" />
       </Head>
       <body>
