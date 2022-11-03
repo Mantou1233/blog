@@ -1,7 +1,7 @@
 ---
 title: About me
 published_at: 2022-11-04T15:00:00.000Z
-snippet: say hi to blog
+snippet: infos of me
 ---
 hi hi i am mantou!
 
