@@ -1,6 +1,3 @@
-import { Handlers, PageProps } from "$fresh/server.ts";
-import { asset } from "$fresh/runtime.ts";
-
 export default function NavBar(props: { back?: boolean }){
     if(props.back){
         return (

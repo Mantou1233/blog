@@ -3,16 +3,16 @@ title: About me
 published_at: 2022-11-04T15:00:00.000Z
 snippet: infos of me
 ---
+
 hi hi i am mantou!
 
-i am a student in \[REDACTED\].
+i am a student
 
 i am a kind person, most of the time if i am not angry.
 
 i like to listen to music, learning new things and code.
 
-i cant draw asdfasdf
-
+i cant draw
 ## Projects
 
 I mostly code typescript. I did code java but wont anymore.
