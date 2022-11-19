@@ -1,7 +1,7 @@
 ---
 title: preface to my blog
 published_at: 2022-11-04T15:00:00.000Z
-snippet: say hi to blog
+snippet: hi
 ---
 hi uh i am mantou.
 
@@ -9,8 +9,6 @@ uh yeah nothing really to say this is kinda a impromptu idea to make a blog seek
 
 this blog probably isnt only to share my life, but to share my inspirations & thoughts from games, websites, books, movies etc.
 
-you might know me as a chinese man, i do say chinese, but i dont really do much chinese here. i might seldom post chinese but its not the main core here.
+idk aaa im dumb on writing so this is gonna rarely update
 
-this blog's gui probably will be updated after i know how.
-
-thats all. good morning!
+thats all good morning
