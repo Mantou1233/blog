@@ -44,6 +44,7 @@ export default function BlogIndexPage(props: PageProps<Post[]>) {
             {posts.map((post) => <PostCard post={post} />)}
           </div>
         </main>
+        <a href="https://icp.gov.moe/?keyword=20228181" target="_blank">萌ICP备20228181号</a>
       </body>
     </html>
   );
