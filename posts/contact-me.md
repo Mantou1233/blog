@@ -11,10 +11,4 @@ qq:
 
     xiandnico (2814595278)
 
-    mantouowo (2137548858) (banned)
-
-    nicosect3 (3216331832) (rarely use)
-
-join my discord!
-
-    https://discord.gg/EWM794ABag
+join my discord! https://discord.gg/EWM794ABag
