@@ -7,6 +7,19 @@ nav.navbar {
 	z-index: 100;
 }
 
+.nav-left {
+    float: left;
+}
+
+.nav-left a {
+    float: left;
+	background-color: #CFF2FF;
+}
+
+.nav-right a {
+    float: right;
+}
+
 nav.navbar a {
 	top: 8px;
 	right: 6px;
@@ -15,6 +28,18 @@ nav.navbar a {
 	font-size: 13px;
 	line-height: 1.35;
 	border-radius: 3px;
+}
+
+a.nav-title {
+	top: 8px;
+	right: 6px;
+	padding: 8px 12px;
+	color: #CFF2FF;
+	text-align: left;
+	font-size: 20px;
+	line-height: 1.35;
+	border-radius: 3px;
+    float: left;
 }
 
 nav.navbar a:hover {
